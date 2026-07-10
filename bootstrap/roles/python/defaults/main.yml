@@ -1,0 +1,8 @@
+# Default version if the user doesn't specify one
+robokitty_version: "main"
+
+python_tools:
+  - ipdb
+  - virtualenv
+  - ipython
+  - tox
